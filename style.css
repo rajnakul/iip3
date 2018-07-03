@@ -1,0 +1,285 @@
+body{width:100%;
+}
+.div1{width:100%;
+	height:527px;
+	background-image:url(images/bg_img.jpg);
+}
+.div1-row1{width:1000px;
+	height:115px;
+	margin:auto;
+	padding-top:20px;
+}
+.div1-row1-logo{width:243px;
+	height:92px;
+	float:left;
+}
+.div1-row1-contact{width:250px;
+	height:100px;
+	float:right;
+	float:right;
+	text-align:right;
+	font-family:arial;
+	font-size:22;
+}
+
+.div1-row2{width:970px;
+	height:15px;
+	background-image:url(images/menu_rept.jpg);
+	margin:auto;
+	padding:15px;
+}
+.div1-row2-navi{float:left;
+	padding-left:40;
+	font-weight:bold;
+	font-family:arial;
+	font-size:15;
+}
+.div1-row3{width:1000px;
+	margin:auto;
+	height:323px;
+}
+.div2{width:100%;
+}
+.div2-row1{width:1000px;
+	margin:auto;
+	height:200px;
+	padding-top:5px;
+	margin-top:5px;
+	border-bottom:1px solid blue;
+}
+.div2-row1-col{width:30%;
+	height:160px;
+	float:left;
+	margin-left:18px;
+	margin-top:10px;
+}
+.div2-row1-whyus{width:25%;
+	height:20px;
+	padding-left:20px;
+	padding-bottom:5px;
+	font-weight:bold;
+	font-size:18;
+}
+.div2-row1-colhead{width:100%;
+	height:21px;
+}
+.div2-row2{width:980px;
+	margin:auto;
+	height:260px;
+	padding:10px;
+	
+}
+.div2-row2-ourservices{width:960px;
+	height:230px;
+	background-image:url(images/midback.png);
+	margin:2.5px;
+
+}
+.div2-row1-thumbnail{width:65px;
+	height:60px;
+	float:left;
+	margin-top:10px;
+}
+.div2-row2-services-sections{width:100%;
+	height:58px;
+}
+.div2-row2-services-icon{width:50px;
+	height:45px;
+	float:left;
+	margin-left:10px;
+	margin-top:2px;
+}
+.div2-row2-services-content{width:200px;
+	height:20px;
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+	font-size:13;
+}
+.div2-row2-servicescontent{width:31.5%;
+	height:50px;
+	float:left;
+	margin-left:11px;
+	margin-top:4px;
+}
+.div2-row3-domain{width:30%;
+	height:200px;
+	float:left;
+	margin:5px;
+}
+.div2-row3-domainimg{width:15%;
+	height:80%;
+	float:left;
+	padding:10px;
+}
+.div2-row3-domaintextcol{width:70%;
+	height:100%;
+	float:left;
+}
+.div2-row3-domain-title{width:90%;
+	height:26px;
+	padding:5px;
+	font-weight:bold;
+	color:blue;
+}
+.div2-row3-domain-text{width:100%;
+	height:160px;
+}
+.div2-row3-clientview{width:60%;
+	height:200px;
+	float:left;
+	margin:5px;
+}
+.div2-row3-clientimg{width:20%;
+	height:100%;
+	float:left;
+}
+.div2-row1-text{width:220px;
+	height:105px;
+	float:left;
+	margin-left:10px;
+	text-align:fill;
+	font-size:14.5;
+	text-decoration-color:lightgrey;
+	margin-top:10px;
+}
+.div2-row3{width:1000px;
+	margin:auto;
+	height:220px;
+}
+.div2-row3-client-title{width:79.3%;
+	height:100%;
+	float:left;
+}
+.div2-row-3-client-title{width:100%;
+	height:30px;
+	font-weight:bold;
+	color:blue;
+}
+.div2-row-3-client-text{width:100%;
+	height:65%;
+}
+.div3{width:100%;
+	height:;
+}
+.div3-footerbg{background-image:url(images/footer.png);
+	width:100%;
+	height:370px;
+	margin:auto;
+}
+.div3-footer-content{width:1000px;
+	height:250px;
+	margin:auto;
+}
+.div3-footer-content-text{width:30%;
+	height:240px;
+	float:left;
+	margin-left:25px;
+	margin-top:20px;
+}
+.div3-footer-content-head{width:100%;
+	height:25px;
+	color:red;
+	padding-left:20px;
+	font-size:18;
+	font-weight:bold;
+}
+.div3-footer-content-points{width:100%;
+	height:90%;
+	color:blue;
+}
+.div3-footer-add{width:100%;
+	height:50px;
+	text-align:right;
+}
+.div3-footer-nos{width:100%;
+	height:30px;
+	text-align:right;
+}
+.div3-footer-smicon{width:300px;
+	height:50px;
+	margin:auto;
+	padding-left:700px;
+	padding-top:15px;
+}
+.div3-smicon{float:left;
+}
+.div-3-smouter{width:1000px;
+	height:100px;
+	margin:auto;
+}
+.div2-about{width:980px;
+	margin:auto;
+	height:800px;
+	border:1px solid red;
+}
+.div2-left{width:24%;
+	height:92%;
+	border:1px solid red;
+	float:left;
+	margin-top:22px;
+}
+.div2-left-div{width:100%;
+	height:52.5%;
+	border:1px solid red;
+	background-image: url(images/leftpanel.png);
+}
+.div2-right-div{width:74%;
+	height:92%;
+	border:1px solid red;
+	float:left;
+	margin-top:22px;
+	margin-left:15px;
+}
+.div2-left-head{width:150px;
+	height:25px;
+	color:red;
+	padding-left:20px;
+	font-size:18;
+	font-weight:bold;
+	padding-left:80px;
+	border:1px solid red;
+}
+.div2-left-pointers{width:220px;
+	height:20px;
+	border:1px solid red;
+	padding-left:10px;
+	margin-top:15px;
+	color:darkblue;
+}
+.div2-left-div-bot{width:234px;
+	height:44%;
+	border:1px solid red;
+	background-image: url(images/leftbelow.png);
+	margin-top:22px;
+}	
+.div1-banner-innerpage{width:100%;
+	background-image:url(images/bg_img.jpg);
+}
+.div1-navi-innerpage{width:970px;
+	height:15px;
+	background-image:url(images/menu_rept.jpg);
+	margin:auto;
+	padding:15px;
+	display: block;
+	margin-top:20px;
+}
+.div2-row3-aboutus{width:1000px;
+	height:200px;
+	margin:auto;
+	border:1px solid red;
+
+}
+.clear{clear:both;
+
+}
+
+
+
+
+
+
+
+
+
+
